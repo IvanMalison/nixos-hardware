@@ -96,6 +96,7 @@ See code for all available configurations.
 | [Asus ROG Strix G513IM](asus/rog-strix/g513im)                         | `<nixos-hardware/asus/rog-strix/g513im>`                |
 | [Asus ROG Strix G713IE](asus/rog-strix/g713ie)                         | `<nixos-hardware/asus/rog-strix/g713ie>`                |
 | [Asus ROG Strix G733QS](asus/rog-strix/g733qs)                         | `<nixos-hardware/asus/rog-strix/g733qs>`                |
+| [Asus ROG Strix G834JZR](asus/rog-strix/g834jzr)                       | `<nixos-hardware/asus/rog-strix/g834jzr>`               |
 | [Asus ROG Strix X570-E GAMING](asus/rog-strix/x570e)                   | `<nixos-hardware/asus/rog-strix/x570e>`                 |
 | [Asus ROG Zephyrus G14 GA401](asus/zephyrus/ga401)                     | `<nixos-hardware/asus/zephyrus/ga401>`                  |
 | [Asus ROG Zephyrus G14 GA402](asus/zephyrus/ga402)                     | `<nixos-hardware/asus/zephyrus/ga402>`                  |
